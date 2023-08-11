@@ -5,12 +5,12 @@
 This code serves as the foundational backend for an e-commerce store, providing essential functionalities to power your online business. This backend solution enables you to build a robust and dynamic e-commerce platform. Implementing advanced features and adaptable architecture, it forms the backbone of a reliable and scalable online store, ensuring a smooth shopping experience for your customers.
 
 ## Table of Contents
-  * [Demo](#Demo)
-  * [Installation](#Installation)
-  * [Usage](#Usage)
-  * [Contributing](#Contributing)
-  * [Questions](#Questions)
-  * [License](#License)
+  * [Demo](#demo)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Questions](#questions)
+  * [License](#license)
 
 ## Demo
 ## Installation
