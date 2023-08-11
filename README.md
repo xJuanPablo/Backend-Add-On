@@ -14,7 +14,10 @@ This code serves as the foundational backend for an e-commerce store, providing 
 
 ## Demo
 
-https://github.com/xJuanPablo/Backend-Add-On/assets/135268267/9af5643e-015c-4ef0-8382-ed0b99efc19a
+Watch the video walkthrough below or click [HERE](https://drive.google.com/file/d/1ngEQaAjn6IK91_nAI6QtRJ070tJ0786N/view)
+
+https://github.com/xJuanPablo/Backend-Add-On/assets/135268267/9bb3a8af-c86f-49aa-9186-0f0e80079781
+
 
 
 
